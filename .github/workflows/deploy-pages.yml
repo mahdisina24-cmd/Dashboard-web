@@ -1,5 +1,4 @@
 name: Deploy static dashboard to GitHub Pages
-
 on:
   push:
     branches: ["main"]
